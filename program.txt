@@ -6,3 +6,8 @@ metho()
 {
 	print "my name is –°∑…≈£"
 }
+show()
+{
+	string name = "–°∑…≈£"
+	method(name);
+}
